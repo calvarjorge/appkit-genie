@@ -2,11 +2,7 @@
 
 [![Deploy to Databricks (Dev)](https://img.shields.io/badge/Deploy_to_Databricks-Dev-FC4C02?style=for-the-badge&logo=databricks&logoColor=white)](https://accounts.dev.databricks.com/select-workspace?destination_url=%2Fapps%2Finstall%3Frepo_url%3Dhttps%253A%252F%252Fgithub.com%252Fcalvarjorge%252Fappkit-genie%26o%3D3481107950761530%26serve-pr-id%3D1715463-f2e6d)
 
-[![Deploy to Databricks (AWS)](https://img.shields.io/badge/Deploy_to_Databricks-AWS-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://accounts.cloud.databricks.com/select-workspace?destination_url=%2Fapps%2Finstall%3Frepo_url%3Dhttps%253A%252F%252Fgithub.com%252Fcalvarjorge%252Fappkit-genie)
-
-[![Deploy to Databricks (Azure)](https://img.shields.io/badge/Deploy_to_Databricks-Azure-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://accounts.azuredatabricks.net/select-workspace?destination_url=%2Fapps%2Finstall%3Frepo_url%3Dhttps%253A%252F%252Fgithub.com%252Fcalvarjorge%252Fappkit-genie)
-
-[![Deploy to Databricks (GCP)](https://img.shields.io/badge/Deploy_to_Databricks-GCP-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://accounts.gcp.databricks.com/select-workspace?destination_url=%2Fapps%2Finstall%3Frepo_url%3Dhttps%253A%252F%252Fgithub.com%252Fcalvarjorge%252Fappkit-genie)
+[![Deploy to Databricks (AWS)](https://img.shields.io/badge/Deploy_to_Databricks-AWS-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://accounts.cloud.databricks.com/select-workspace?destination_url=%2Fapps%2Finstall%3Frepo_url%3Dhttps%253A%252F%252Fgithub.com%252Fcalvarjorge%252Fappkit-genie) [![Deploy to Databricks (Azure)](https://img.shields.io/badge/Deploy_to_Databricks-Azure-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://accounts.azuredatabricks.net/select-workspace?destination_url=%2Fapps%2Finstall%3Frepo_url%3Dhttps%253A%252F%252Fgithub.com%252Fcalvarjorge%252Fappkit-genie) [![Deploy to Databricks (GCP)](https://img.shields.io/badge/Deploy_to_Databricks-GCP-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://accounts.gcp.databricks.com/select-workspace?destination_url=%2Fapps%2Finstall%3Frepo_url%3Dhttps%253A%252F%252Fgithub.com%252Fcalvarjorge%252Fappkit-genie)
 
 A Databricks App powered by [AppKit](https://databricks.github.io/appkit/), featuring React, TypeScript, and Tailwind CSS.
 
