@@ -1,6 +1,6 @@
 # appkit-genie
 
-[![Deploy to Databricks (Dev)](https://img.shields.io/badge/Deploy_to_Databricks-FF3621?logo=databricks&logoColor=white)](https://accounts.dev.databricks.com/select-workspace?destination_url=%2Fapps%2Finstall%3Frepo_url%3Dhttps%253A%252F%252Fgithub.com%252Fcalvarjorge%252Fappkit-genie%26o%3D3481107950761530%26serve-pr-id%3D1715463-f2e6d)
+[![Deploy to Databricks (Dev)](https://img.shields.io/badge/Deploy_to_Databricks-FF3621?logo=databricks&logoColor=white&style=for-the-badge)](https://accounts.dev.databricks.com/select-workspace?destination_url=%2Fapps%2Finstall%3Frepo_url%3Dhttps%253A%252F%252Fgithub.com%252Fcalvarjorge%252Fappkit-genie%26o%3D3481107950761530%26serve-pr-id%3D1715463-f2e6d)
 
 [![Deploy to Databricks (Dev)](https://img.shields.io/badge/Deploy_to_Databricks-Dev-FC4C02?style=for-the-badge&logo=databricks&logoColor=white)](https://accounts.dev.databricks.com/select-workspace?destination_url=%2Fapps%2Finstall%3Frepo_url%3Dhttps%253A%252F%252Fgithub.com%252Fcalvarjorge%252Fappkit-genie%26o%3D3481107950761530%26serve-pr-id%3D1715463-f2e6d)
 
